@@ -39,7 +39,11 @@ A **voice-controlled AI virtual assistant** that listens, responds, and performs
 2. Speak commands like:  
    - "Open YouTube"  
    - "What’s the time?"  
-   - "Tell me a joke"  
+   - "Tell me a joke"
+   - "who are you?"
+   - "tell me the Date/Time"
+   - "open any Desktop apps"
+
 3. Watch the AI assistant respond! 
 
 ## **Contributing**  
