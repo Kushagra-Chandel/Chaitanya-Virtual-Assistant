@@ -2,6 +2,8 @@
 ### **Chaitanya - Your AI Virtual Assistant**  
 A **voice-controlled AI virtual assistant** that listens, responds, and performs tasks like opening apps, fetching weather updates, telling jokes, and more. 🚀  
 
+![Screenshot](Screenshot.png)
+
 
 ## **Features**  
 ✅ Voice Recognition & Text-to-Speech  
@@ -12,6 +14,7 @@ A **voice-controlled AI virtual assistant** that listens, responds, and performs
 ✅ Weather Updates  
 ✅ AI Search Functionality  
 ✅ Smooth UI with Animated Effects  
+
 
 ## **Tech Stack**  
 🔹 **HTML** - Structuring the assistant UI  
