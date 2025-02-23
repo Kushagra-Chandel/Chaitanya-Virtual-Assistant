@@ -1,7 +1,3 @@
-﻿# Chaitanya-Virtual-Assistant
-Here's a **README.md** file for your project with a professional and clean structure:  
-
----
 
 ### **Chaitanya - Your AI Virtual Assistant**  
 A **voice-controlled AI virtual assistant** that listens, responds, and performs tasks like opening apps, fetching weather updates, telling jokes, and more. 🚀  
